@@ -1,0 +1,11 @@
+{
+   "name": "xyz.iforrest.unity.logger",
+   "displayName": "FM Logger",
+   "description": "A logger util used in Unity editor",
+   "version": "0.0.1",
+   "author": {
+        "name" : "Forrest Mi",
+        "email" : "i@iforrest.xyz",
+        "url" : "https://iforrest.xyz/"
+    }
+}
