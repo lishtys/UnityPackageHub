@@ -1,0 +1,12 @@
+{
+  "name": "xyz.iforrest.unity.logger",
+  "displayName": "IForrest Console Logger",
+  "description": "custom debug console logger used in previous project",
+  "version": "0.0.2",
+  "author": {
+    "name": "Forrest Mi",
+    "email": "i@iforrest.xyz",
+    "url": "https://iforrest.xyz/"
+  },
+  "type": "library"
+}
